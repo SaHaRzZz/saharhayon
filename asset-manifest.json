@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/saharhayon/static/css/main.4ab6e622.chunk.css",
+    "main.js": "/saharhayon/static/js/main.8458091b.chunk.js",
+    "main.js.map": "/saharhayon/static/js/main.8458091b.chunk.js.map",
+    "runtime-main.js": "/saharhayon/static/js/runtime-main.c05992bd.js",
+    "runtime-main.js.map": "/saharhayon/static/js/runtime-main.c05992bd.js.map",
+    "static/css/2.150d169a.chunk.css": "/saharhayon/static/css/2.150d169a.chunk.css",
+    "static/js/2.b30143c6.chunk.js": "/saharhayon/static/js/2.b30143c6.chunk.js",
+    "static/js/2.b30143c6.chunk.js.map": "/saharhayon/static/js/2.b30143c6.chunk.js.map",
+    "static/js/3.dd921c84.chunk.js": "/saharhayon/static/js/3.dd921c84.chunk.js",
+    "static/js/3.dd921c84.chunk.js.map": "/saharhayon/static/js/3.dd921c84.chunk.js.map",
+    "index.html": "/saharhayon/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/saharhayon/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.4ab6e622.chunk.css.map": "/saharhayon/static/css/main.4ab6e622.chunk.css.map",
+    "static/js/2.b30143c6.chunk.js.LICENSE.txt": "/saharhayon/static/js/2.b30143c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c05992bd.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.b30143c6.chunk.js",
+    "static/css/main.4ab6e622.chunk.css",
+    "static/js/main.8458091b.chunk.js"
+  ]
+}
