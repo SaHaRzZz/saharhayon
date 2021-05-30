@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/saharhayon/static/css/main.e7dee153.chunk.css",
-    "main.js": "/saharhayon/static/js/main.2899c835.chunk.js",
-    "main.js.map": "/saharhayon/static/js/main.2899c835.chunk.js.map",
-    "runtime-main.js": "/saharhayon/static/js/runtime-main.6354edb7.js",
-    "runtime-main.js.map": "/saharhayon/static/js/runtime-main.6354edb7.js.map",
+    "main.css": "/saharhayon/static/css/main.a2e444f0.chunk.css",
+    "main.js": "/saharhayon/static/js/main.f9ead6ca.chunk.js",
+    "main.js.map": "/saharhayon/static/js/main.f9ead6ca.chunk.js.map",
+    "runtime-main.js": "/saharhayon/static/js/runtime-main.2ee0c23e.js",
+    "runtime-main.js.map": "/saharhayon/static/js/runtime-main.2ee0c23e.js.map",
     "static/css/2.150d169a.chunk.css": "/saharhayon/static/css/2.150d169a.chunk.css",
-    "static/js/2.5ecfaad9.chunk.js": "/saharhayon/static/js/2.5ecfaad9.chunk.js",
-    "static/js/2.5ecfaad9.chunk.js.map": "/saharhayon/static/js/2.5ecfaad9.chunk.js.map",
-    "static/js/3.ea548e7e.chunk.js": "/saharhayon/static/js/3.ea548e7e.chunk.js",
-    "static/js/3.ea548e7e.chunk.js.map": "/saharhayon/static/js/3.ea548e7e.chunk.js.map",
+    "static/js/2.e19d3e47.chunk.js": "/saharhayon/static/js/2.e19d3e47.chunk.js",
+    "static/js/2.e19d3e47.chunk.js.map": "/saharhayon/static/js/2.e19d3e47.chunk.js.map",
+    "static/js/3.63d061de.chunk.js": "/saharhayon/static/js/3.63d061de.chunk.js",
+    "static/js/3.63d061de.chunk.js.map": "/saharhayon/static/js/3.63d061de.chunk.js.map",
     "index.html": "/saharhayon/index.html",
     "static/css/2.150d169a.chunk.css.map": "/saharhayon/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.e7dee153.chunk.css.map": "/saharhayon/static/css/main.e7dee153.chunk.css.map",
-    "static/js/2.5ecfaad9.chunk.js.LICENSE.txt": "/saharhayon/static/js/2.5ecfaad9.chunk.js.LICENSE.txt",
+    "static/css/main.a2e444f0.chunk.css.map": "/saharhayon/static/css/main.a2e444f0.chunk.css.map",
+    "static/js/2.e19d3e47.chunk.js.LICENSE.txt": "/saharhayon/static/js/2.e19d3e47.chunk.js.LICENSE.txt",
     "static/media/App.css": "/saharhayon/static/media/FrankRuhlLibre-Regular.28915527.ttf",
+    "static/media/loading.d48bebd8.svg": "/saharhayon/static/media/loading.d48bebd8.svg",
     "static/media/me.312c666c.jpg": "/saharhayon/static/media/me.312c666c.jpg",
     "static/media/url1.f8c7daff.png": "/saharhayon/static/media/url1.f8c7daff.png",
     "static/media/url2.84f556fd.png": "/saharhayon/static/media/url2.84f556fd.png",
@@ -22,10 +23,10 @@
     "static/media/url7.c1b59537.jpg": "/saharhayon/static/media/url7.c1b59537.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6354edb7.js",
+    "static/js/runtime-main.2ee0c23e.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.5ecfaad9.chunk.js",
-    "static/css/main.e7dee153.chunk.css",
-    "static/js/main.2899c835.chunk.js"
+    "static/js/2.e19d3e47.chunk.js",
+    "static/css/main.a2e444f0.chunk.css",
+    "static/js/main.f9ead6ca.chunk.js"
   ]
 }
