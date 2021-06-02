@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/saharhayon/static/css/main.a2e444f0.chunk.css",
-    "main.js": "/saharhayon/static/js/main.8407ea90.chunk.js",
-    "main.js.map": "/saharhayon/static/js/main.8407ea90.chunk.js.map",
+    "main.js": "/saharhayon/static/js/main.d65da4a4.chunk.js",
+    "main.js.map": "/saharhayon/static/js/main.d65da4a4.chunk.js.map",
     "runtime-main.js": "/saharhayon/static/js/runtime-main.2ee0c23e.js",
     "runtime-main.js.map": "/saharhayon/static/js/runtime-main.2ee0c23e.js.map",
     "static/css/2.150d169a.chunk.css": "/saharhayon/static/css/2.150d169a.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.d3475dea.chunk.js",
     "static/css/main.a2e444f0.chunk.css",
-    "static/js/main.8407ea90.chunk.js"
+    "static/js/main.d65da4a4.chunk.js"
   ]
 }
